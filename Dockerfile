@@ -19,3 +19,5 @@ EXPOSE 3000
 
 # Start command (ensure app binds 0.0.0.0)
 CMD ["node", "index.js"]
+
+#file deploys app
